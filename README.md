@@ -20,6 +20,8 @@ A fashion and beauty startup company is experiencing an increase in major defect
 ## 📊 Live Dashboard & Links
 🖥️ **Interactive Dashboard:** https://public.tableau.com/views/SupplyChainAnalysis_17894160976220/FulfillmentCustomerService3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+![Project Screenshot](images/screenshot.png)
+
 📝 **SQL Queries:** https://github.com/jburkes1/Supply-Chain-Analysis-for-Fashion-and-Beauty-Startup/tree/6f8a718244bff2cc99682a47d63d3636eb2bc541/scripts
 
 📈 **Presentation Deck:** https://github.com/jburkes1/Supply-Chain-Analysis-for-Fashion-and-Beauty-Startup/tree/d756671f5f987a1a7988afed7863e4e1bc60411a/deliverables
