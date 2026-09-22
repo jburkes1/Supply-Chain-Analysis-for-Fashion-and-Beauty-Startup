@@ -22,7 +22,7 @@ A fashion and beauty startup company is experiencing an increase in major defect
 
 📝 **SQL Queries:** https://github.com/jburkes1/Supply-Chain-Analysis-for-Fashion-and-Beauty-Startup/tree/6f8a718244bff2cc99682a47d63d3636eb2bc541/scripts
 
-📈 **Presentation Deck:** Insert
+📈 **Presentation Deck:** https://github.com/jburkes1/Supply-Chain-Analysis-for-Fashion-and-Beauty-Startup/tree/d756671f5f987a1a7988afed7863e4e1bc60411a/deliverables
 
 ## 🛠️ Skills & Tools Used
 **Data Extraction & Transformation:** Excel, SQL (PostgreSQL)
