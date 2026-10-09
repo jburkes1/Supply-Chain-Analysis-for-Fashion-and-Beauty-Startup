@@ -4,11 +4,13 @@ A fashion and beauty startup company is experiencing an increase in major defect
 ## 📌 Executive Summary
 **The Problem:** A fashion and beauty startup company is experiencing an increase in major defects across product lines that exceed Acceptance Quality Limit (AQL) thresholds of 2.0%. Leadership wants to understand the operational impact of these defects.
 
-**The Solution:** Review the inventory and shipping records for all product SKUs. Analysis will solve for the following business questions:
+**The Analysis:** Review the inventory and shipping records for all product SKUs. Analysis will solve for the following business questions:
   
 * What is the operational impact of quality control failures?
 * Which product lines carry the highest defect liability?
 * Which suppliers present the greatest fulfillment bottleneck?
+
+**The Solution:** Implement stricter quality control measures for Haircare and Skincare product lines, and demand more accountability from Supplier 3. 
 
 **The Impact:** Bringing the average defect rate of Haircare (2.48%) and Skincare (2.33%) down below the AQL threshold of 2.0% will:​
 
