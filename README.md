@@ -10,7 +10,7 @@ A fashion and beauty startup company is experiencing an increase in major defect
 * Which product lines carry the highest defect liability?
 * Which suppliers present the greatest fulfillment bottleneck?
 
-**The Solution:** Implement stricter quality control measures for Haircare and Skincare product lines, and demand more accountability from Supplier 3. 
+**The Solution:** Implement stricter quality control measures for Haircare and Skincare product lines, which represent the core volume of operations, and demand more accountability from Supplier 3 who has the longest average lead time and the 2nd highest defect rate.  
 
 **The Impact:** Bringing the average defect rate of Haircare (2.48%) and Skincare (2.33%) down below the AQL threshold of 2.0% will:​
 
